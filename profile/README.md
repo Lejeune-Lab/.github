@@ -38,6 +38,21 @@ This page is under construction.
 
 ## Publications <a name="pubs"></a>
 
+TODO: figure out what to link to here -- e.g., link to manuscript, link to repo for ML models in paper -- forked? -- link to datasets/software? or do we just reference above? 
+
+* Yuan, L., Park, H. S., & Lejeune, E. (2022). Towards out of distribution generalization for problems in mechanics. Computer Methods in Applied Mechanics and Engineering, 400, 115569.
+* Das, S. L., Sutherland, B. P., Lejeune, E., Eyckmans, J., & Chen, C. S. (2022). Mechanical response of cardiac microtissues to acute localized injury. American Journal of Physiology-Heart and Circulatory Physiology.
+* Lohr, M. J., Sugerman, G. P., Kakaletsis, S., Lejeune, E., & Rausch, M. K. (2022). An introduction to the Ogden model in biomechanics: benefits, implementation tools and limitations. Philosophical Transactions of the Royal Society A, 380(2234), 20210365.
+* Prachaseree, P., & Lejeune, E. (2022). Learning Mechanically Driven Emergent Behavior with Message Passing Neural Networks. Computers & Structures, 270, 106825. 
+* Kobeissi, H., Mohammadzadeh, S., & Lejeune, E. (2022). Enhancing Mechanical Metamodels with a Generative Model-Based Augmented Training Dataset. Journal of Biomechanical Engineering.
+* Mohammadzadeh, S., & Lejeune, E. (2021). Predicting mechanically driven full-field Quantities of Interest with deep learning-based metamodels. Extreme Mechanics Letters, 101566.
+* Zhao B., Zhang K., Chen C.S., & Lejeune E. (2021) Sarc-Graph: Automated segmentation, tracking, and analysis of sarcomeres in hiPSC-derived cardiomyocytes. PLoS Comput Biol 17(10): e1009443. 
+* Lejeune, E., & Zhao, B. (2021). Exploring the potential of transfer learning for metamodels of heterogeneous material deformation. Journal of the Mechanical Behavior of Biomedical Materials, 104276.
+* Lejeune, E. (2021). Geometric stability classification: datasets, metamodels, and adversarial attacks. Computer-Aided Design, 131, 102948.
+* Kakaletsis, S., Meador, W. D., Mathur, M., Sugerman, G. P., Jazwiec, T., Malinowski, M., Lejeune, E., Timek, T.A., & Rausch, M. K. (2020). Right Ventricular Myocardial Mechanics: Multi-Modal Deformation, Microstructure, Modeling, and Comparison to the Left Ventricle. Acta Biomaterialia.
+* Lejeune, E. (2020). Mechanical MNIST: A benchmark dataset for mechanical metamodels. Extreme Mechanics Letters, 100659. 
+* Lejeune, E., Khang, A., Sansom, J., & Sacks, M. S. (2020). FM-Track: A fiducial marker tracking software for studying cell mechanics in a three-dimensional environment. SoftwareX, 11, 100417.
+
 
 ## Resources for current and future students <a name="resources"></a>
 
