@@ -17,7 +17,7 @@ This page is under construction.
 * [FEniCS ArcLength solver](#fenics)
 * [Autotwin MRI to mesh to TBI simulation](#autotwin)
 
-### SarcGraph <a name="sg"></a>
+#### SarcGraph <a name="sg"></a>
 
 ### MicroBundleCompute <a name="mbc"></a>
 
