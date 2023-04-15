@@ -50,7 +50,6 @@ TODO: figure out what to link to here -- e.g., link to manuscript, link to repo 
 * Lejeune, E. (2021). Geometric stability classification: datasets, metamodels, and adversarial attacks. Computer-Aided Design, 131, 102948.
 * Kakaletsis, S., Meador, W. D., Mathur, M., Sugerman, G. P., Jazwiec, T., Malinowski, M., Lejeune, E., Timek, T.A., & Rausch, M. K. (2020). Right Ventricular Myocardial Mechanics: Multi-Modal Deformation, Microstructure, Modeling, and Comparison to the Left Ventricle. Acta Biomaterialia.
 * Lejeune, E. (2020). Mechanical MNIST: A benchmark dataset for mechanical metamodels. Extreme Mechanics Letters, 100659. 
-* Lejeune, E., Khang, A., Sansom, J., & Sacks, M. S. (2020). FM-Track: A fiducial marker tracking software for studying cell mechanics in a three-dimensional environment. SoftwareX, 11, 100417.
 
 
 ## Resources for current and future students <a name="resources"></a>
