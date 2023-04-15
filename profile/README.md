@@ -9,7 +9,7 @@ This page is under construction.
     * [FEniCS ArcLength solver](#fenics)
     * [Autotwin MRI to mesh to TBI simulation](#autotwin)
 * [Datasets](#data)
-    * [Mechanical MNIST](#m-mnist)
+    * [Mechanical MNIST Collection](#m-mnist)
     * [Buckling Instability Classification (BIC)](#bic)
     * [Asymmetric Buckling Columns (ABC)](#abc)
 * [List of publications with links to the relevant GitHub repository](#pubs)
@@ -30,7 +30,7 @@ This page is under construction.
 
 ## Datasets <a name="data"></a>
 
-### Mechanical MNIST <a name="m-mnist"></a>
+### Mechanical MNIST Collection <a name="m-mnist"></a>
 
 ### Buckling Instability Classification (BIC) <a name="bic"></a>
 
