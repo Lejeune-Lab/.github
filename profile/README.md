@@ -36,13 +36,12 @@ This page is under construction.
 
 ### Asymmetric Buckling Columns (ABC) <a name="abc"></a>
 
-## Publications <a name="pubs"></a>
+## Publications + relevant GitHub repositories <a name="pubs"></a>
 
 TODO: figure out what to link to here -- e.g., link to manuscript, link to repo for ML models in paper -- forked? -- link to datasets/software? or do we just reference above? 
 
 * Yuan, L., Park, H. S., & Lejeune, E. (2022). Towards out of distribution generalization for problems in mechanics. Computer Methods in Applied Mechanics and Engineering, 400, 115569.
 * Das, S. L., Sutherland, B. P., Lejeune, E., Eyckmans, J., & Chen, C. S. (2022). Mechanical response of cardiac microtissues to acute localized injury. American Journal of Physiology-Heart and Circulatory Physiology.
-* Lohr, M. J., Sugerman, G. P., Kakaletsis, S., Lejeune, E., & Rausch, M. K. (2022). An introduction to the Ogden model in biomechanics: benefits, implementation tools and limitations. Philosophical Transactions of the Royal Society A, 380(2234), 20210365.
 * Prachaseree, P., & Lejeune, E. (2022). Learning Mechanically Driven Emergent Behavior with Message Passing Neural Networks. Computers & Structures, 270, 106825. 
 * Kobeissi, H., Mohammadzadeh, S., & Lejeune, E. (2022). Enhancing Mechanical Metamodels with a Generative Model-Based Augmented Training Dataset. Journal of Biomechanical Engineering.
 * Mohammadzadeh, S., & Lejeune, E. (2021). Predicting mechanically driven full-field Quantities of Interest with deep learning-based metamodels. Extreme Mechanics Letters, 101566.
@@ -60,3 +59,5 @@ Introduction to Lejeune Lab computational research, including recommended course
 https://github.com/Lejeune-Lab/BU_computational_research_intro 
 
 Lessons on bringing your computational research skills to the next level from our collaborator Chad Hovey at SNL: https://github.com/autotwin/lessons
+
+A simple tutorial on curve fitting in the context of constitutive modeling with Python: https://github.com/elejeune11/fitting-one-term-ogden-model
