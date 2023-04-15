@@ -15,7 +15,7 @@ This page is under construction.
 * [MicroBundleCompute cardiac microtissue mechanical metrics](#mbc)
 * [WoundCompute three-dimensional wound healing analysis software](#wc)
 * [FEniCS ArcLength solver](#fenics)
-* [Autotwin MRI \mapsto TBI metrics](#autotwin)
+* [Autotwin MRI to mesh to TBI simulation](#autotwin)
 
 ### SarcGraph <a name="sg"></a>
 
