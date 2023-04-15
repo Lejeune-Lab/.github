@@ -3,6 +3,7 @@ This page is under construction.
 
 ## Table of contents
 * [Software projects](#software)
+    * [SarcGraph sarcomere tracking in hiPSC-CMs](#sg)
 * [Datasets](#data)
 * [List of publications with links to the relevant GitHub repository](#pubs)
 * [Resources for current and future students (public)](#resources)
