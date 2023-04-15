@@ -60,3 +60,7 @@ https://github.com/Lejeune-Lab/BU_computational_research_intro
 Lessons on bringing your computational research skills to the next level from our collaborator Chad Hovey at SNL: https://github.com/autotwin/lessons
 
 A simple tutorial on curve fitting in the context of constitutive modeling with Python: https://github.com/elejeune11/fitting-one-term-ogden-model
+
+Notes on non-linear FEA and geometrically exact beams (Simo-Reissner) in the context of FEniCS: https://fenics-arclength.readthedocs.io/en/latest/math_prelim.html and https://fenics-arclength.readthedocs.io/en/latest/examples/force_control/beam/README.html#
+
+
