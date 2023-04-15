@@ -10,6 +10,22 @@ This page is under construction.
 
 ## Software projects <a name="software"></a>
 
+### Current software projects
+* [SarcGraph sarcomere tracking in hiPSC-CMs](#sg)
+* [MicroBundleCompute cardiac microtissue mechanical metrics](#mbc)
+* [WoundCompute three-dimensional wound healing analysis software](#wc)
+* [FEniCS ArcLength solver](#fenics)
+* [Autotwin MRI \mapsto TBI metrics](#autotwin)
+
+### SarcGraph <a name="sg"></a>
+
+### MicroBundleCompute <a name="mbc"></a>
+
+### WoundCompute <a name="wc"></a>
+
+### FEniCS ArcLength <a name="fenics"></a>
+
+### Autotwin <a name="autotwin"></a>
 
 ## Datasets <a name="data"></a>
 
