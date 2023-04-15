@@ -1,6 +1,11 @@
 # Welcome to the Lejeune Lab!
 This page is under construction. 
 
+If you are interested in our work, you may also be interested in these links:
+* Open Access Mechanics Datasets https://elejeune11.github.io/
+* iMechanica Journal Club for May 2022: Machine Learning in Mechanics: curating datasets and defining challenge problems https://imechanica.org/node/25935
+* BU Mechanical Engineering PhD program: https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-meche/
+
 ## Table of contents
 * [Software projects](#software)
     * [SarcGraph sarcomere tracking in hiPSC-CMs](#sg)
@@ -14,7 +19,6 @@ This page is under construction.
     * [Asymmetric Buckling Columns (ABC)](#abc)
 * [List of publications with links to the relevant GitHub repository](#pubs)
 * [Resources for current and future students (public)](#resources)
-
 
 ## Software projects <a name="software"></a>
 
