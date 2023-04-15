@@ -40,3 +40,8 @@ This page is under construction.
 
 
 ## Resources for current and future students <a name="resources"></a>
+
+Introduction to Lejeune Lab computational research, including recommended courses and how to get started with using the SCC:
+https://github.com/Lejeune-Lab/BU_computational_research_intro 
+
+Lessons on bringing your computational research skills to the next level from our collaborator Chad Hovey at SNL: https://github.com/autotwin/lessons
