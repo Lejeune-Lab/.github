@@ -1,5 +1,5 @@
 # Welcome to the Lejeune Lab!
-This page is under construction. 
+This page is under construction. :)
 
 If you are interested in our work, you may also be interested in these links:
 * Open Access Mechanics Datasets https://elejeune11.github.io/
@@ -23,6 +23,7 @@ If you are interested in our work, you may also be interested in these links:
 ## Software projects <a name="software"></a>
 
 ### SarcGraph <a name="sg"></a>
+[old sarcgraph](https://github.com/Lejeune-Lab/Sarc-Graph)
 
 ### MicroBundleCompute <a name="mbc"></a>
 
