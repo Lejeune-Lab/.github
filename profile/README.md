@@ -54,6 +54,13 @@ In our group, we have created and disseminated multiple open access mechanics da
 
 ### Asymmetric Buckling Columns (ABC) <a name="abc"></a>
 
+| **Asymmetric Buckling Columns (ABC)** |
+|---|
+| **Description:** To fill in. |
+| **Link(s):** To fill in. |
+| **Original paper:** To fill in. |
+| **Code:** To fill in. |
+
 ## Publications + relevant GitHub repositories <a name="pubs"></a>
 
 TODO: figure out what to link to here -- e.g., link to manuscript, link to repo for ML models in paper -- forked? -- link to datasets/software? or do we just reference above? 
