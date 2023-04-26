@@ -43,6 +43,8 @@ In our group, we have created and disseminated multiple open access mechanics da
 
 ### Mechanical MNIST Collection <a name="m-mnist"></a>
 
+Will create one small table for each individual dataset within the collection.
+
 ### Buckling Instability Classification (BIC) <a name="bic"></a>
 
 | **Buckling Instability Classification (BIC)** |
