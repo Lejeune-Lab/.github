@@ -35,6 +35,10 @@ If you are interested in our work, you may also be interested in these links:
 
 ## Datasets <a name="data"></a>
 
+<p align = "center">
+<img alt="datasets" src="datasets.png" width="75%" />
+</p>
+
 ### Mechanical MNIST Collection <a name="m-mnist"></a>
 
 ### Buckling Instability Classification (BIC) <a name="bic"></a>
