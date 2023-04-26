@@ -45,6 +45,13 @@ In our group, we have created and disseminated multiple open access mechanics da
 
 ### Buckling Instability Classification (BIC) <a name="bic"></a>
 
+| **Name: Buckling Instability Classification (BIC)** |
+|---|
+| **Description:** The Buckling Instability Classification (BIC) datasets contain the results of finite element simulations where a heterogeneous column is subject to a fixed level of applied displacement and is classified as either "Stable" or "Unstable." Each model input is a 16x1 vector where the entries of the vector dictate the Young's Modulus (E) of the corresponding portion of the physical column domain. There are three sub-datasets with different input property distributions: BIC-1, BIC-2, and BIC-3. |
+| **Link(s):** https://open.bu.edu/handle/2144/40085 |
+| **Original paper:** https://doi.org/10.1016/j.cad.2020.102948 |
+| **Code:** do we fork repo first? |
+
 ### Asymmetric Buckling Columns (ABC) <a name="abc"></a>
 
 ## Publications + relevant GitHub repositories <a name="pubs"></a>
