@@ -6,6 +6,7 @@ If you are interested in our work, you may also be interested in these links:
 * iMechanica Journal Club for May 2022: Machine Learning in Mechanics: curating datasets and defining challenge problems https://imechanica.org/node/25935
 * BU Mechanical Engineering PhD program: https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-meche/
 
+
 ## Table of contents
 * [Software projects](#software)
     * [SarcGraph sarcomere tracking in hiPSC-CMs](#sg)
