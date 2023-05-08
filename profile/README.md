@@ -38,7 +38,7 @@ If you are interested in our work, you may also be interested in these links:
 In our group, we have created and disseminated multiple open access mechanics datasets for assessing the performance of machine learning models. All datasets are created with open source finite element software [FEniCS](https://fenicsproject.org/), and all are shared under [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licenses. Please feel free to download and use them for any research or educational purposes!
 
 <p align = "center">
-<img alt="datasets" src=".github/profile/figs/datasets.png" width="75%" />
+<img alt="datasets" src="profile/figs/datasets.png" width="75%" />
 </p>
 
 ### Mechanical MNIST Collection <a name="m-mnist"></a>
