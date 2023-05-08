@@ -5,6 +5,7 @@ If you are interested in our work, you may also be interested in these links:
 * [Open Access Mechanics Datasets curated from the broader mechanics community](https://elejeune11.github.io/) - please get in touch if you have datasets that you think we should add!
 * [iMechanica Journal Club for May 2022: Machine Learning in Mechanics: curating datasets and defining challenge problems](https://imechanica.org/node/25935)
 * [BU Mechanical Engineering PhD program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-meche/)
+* [Introduction to Computational Research at BU](https://github.com/Lejeune-Lab/BU_computational_research_intro)
 
 ## Table of contents
 * [Software projects](#software)
@@ -17,8 +18,8 @@ If you are interested in our work, you may also be interested in these links:
     * [Mechanical MNIST Collection](#m-mnist)
     * [Buckling Instability Classification (BIC)](#bic)
     * [Asymmetric Buckling Columns (ABC)](#abc)
-* [List of publications with links to the relevant GitHub repository](#pubs)
-* [Resources for current and future students (public)](#resources)
+* [List of publications with links to GitHub repositories](#pubs)
+* [Resources for current and future students](#resources)
 
 ## Software projects <a name="software"></a>
 
@@ -128,11 +129,10 @@ TODO: figure out what to link to here -- e.g., link to manuscript, link to repo 
 
 ## Resources for current and future students <a name="resources"></a>
 
-Introduction to Lejeune Lab computational research, including recommended courses and how to get started with using the SCC:
-https://github.com/Lejeune-Lab/BU_computational_research_intro 
+[Introduction to Lejeune Lab computational research, including recommended courses and how to get started with using the SCC](https://github.com/Lejeune-Lab/BU_computational_research_intro)
 
-Lessons on bringing your computational research skills to the next level from our collaborator Chad Hovey at SNL: https://github.com/autotwin/lessons
+[Lessons on bringing your computational research skills to the next level from our collaborator Chad Hovey at SNL](https://github.com/autotwin/lessons)
 
-A simple tutorial on curve fitting in the context of constitutive modeling with Python: https://github.com/elejeune11/fitting-one-term-ogden-model
+[A simple tutorial on curve fitting in the context of constitutive modeling with Python](https://github.com/elejeune11/fitting-one-term-ogden-model)
 
-Notes on non-linear FEA and geometrically exact beams (Simo-Reissner) in the context of FEniCS: https://fenics-arclength.readthedocs.io/en/latest/math_prelim.html and https://fenics-arclength.readthedocs.io/en/latest/examples/force_control/beam/README.html#
+[Notes on non-linear FEA with FEniCS](https://fenics-arclength.readthedocs.io/en/latest/math_prelim.html) and [Notes on geometrically exact beams (Simo-Reissner) with FEniCS](https://fenics-arclength.readthedocs.io/en/latest/examples/force_control/beam/README.html#)
