@@ -1,10 +1,10 @@
 # Welcome to the Lejeune Lab!
-This page is under construction. :)
+This page is always under construction. :)
 
 If you are interested in our work, you may also be interested in these links:
-* Open Access Mechanics Datasets https://elejeune11.github.io/
-* iMechanica Journal Club for May 2022: Machine Learning in Mechanics: curating datasets and defining challenge problems https://imechanica.org/node/25935
-* BU Mechanical Engineering PhD program: https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-meche/
+* [Open Access Mechanics Datasets curated from the broader mechanics community](https://elejeune11.github.io/) - please get in touch if you have datasets that you think we should add!
+* [iMechanica Journal Club for May 2022: Machine Learning in Mechanics: curating datasets and defining challenge problems](https://imechanica.org/node/25935)
+* [BU Mechanical Engineering PhD program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-meche/)
 
 ## Table of contents
 * [Software projects](#software)
