@@ -23,9 +23,7 @@ If you are interested in our work, you may also be interested in these links:
 
 ## Software projects <a name="software"></a>
 
-### SarcGraph <a name="sg"></a>
-
-| **SarcGraph** |
+| **SarcGraph** <a name="sg"></a> |
 |---|
 | **Description:** To fill in. |
 | **Link(s):** To fill in. |
