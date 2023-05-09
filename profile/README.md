@@ -23,6 +23,10 @@ If you are interested in our work, you may also be interested in these links:
 
 ## Software projects <a name="software"></a>
 
+<p align = "center">
+<img alt="datasets" src="profile/figs/software_example.gif" width="50%" />
+</p>
+
 | **SarcGraph** <a name="sg"></a> |
 |---|
 | **Description:** To fill in. |
