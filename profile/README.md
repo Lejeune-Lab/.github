@@ -53,9 +53,9 @@ If you are interested in our work, you may also be interested in these links:
 
 | **Autotwin** <a name="autotwin"></a> |
 |---|
-| **Description:** To fill in. |
-| **Paper(s):** To fill in. |
-| **Code:** To fill in. |
+| **Description:** The goal of this project is to create a fully automated workflow from head MRI $\mapsto$ segmented isosurfaces $\mapsto$ FEA mesh $\mapsto$ FEA simulation for the purpose of understanding subject specific traumatic brain injury risk. |
+| **Paper(s):** n/a |
+| **Code:** https://github.com/autotwin |
 
 ## Datasets <a name="data"></a>
 
