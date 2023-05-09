@@ -43,10 +43,11 @@ If you are interested in our work, you may also be interested in these links:
 | **Link(s):** To fill in. |
 | **Paper(s):** To fill in. |
 | **Code:** To fill in. |
-
-<p align = "center">
+| <p align = "center">
 <img alt="datasets" src="profile/figs/software_example.gif" width="50%" />
-</p>
+</p> |
+
+
 
 | **FEniCS ArcLength** <a name="fenics"></a> |
 |---|
