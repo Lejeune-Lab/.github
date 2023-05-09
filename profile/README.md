@@ -26,23 +26,20 @@ If you are interested in our work, you may also be interested in these links:
 | **SarcGraph** <a name="sg"></a> |
 |---|
 | **Description:** To fill in. |
-| **Link(s):** To fill in. |
 | **Paper(s):** [Legacy SarcGraph](https://doi.org/10.1371/journal.pcbi.1009443) |
 | **Code:** [Legacy SarcGraph](https://github.com/Lejeune-Lab/Sarc-Graph) |
 
 | **MicroBundleCompute** <a name="mbc"></a> |
 |---|
 | **Description:** To fill in. |
-| **Link(s):** To fill in. |
 | **Paper(s):** To fill in. |
 | **Code:** To fill in. |
 
 | **WoundCompute** <a name="wc"></a> |
 |---|
-| **Description:** To fill in. |
-| **Link(s):** To fill in. |
-| **Paper(s):** To fill in. |
-| **Code:** To fill in. |
+| **Description:** This software is designed to analyze experimental data from micro-tissue wound experiments. The goal of our software is to extract quantitative information from these images and movies. For example, we can automatically identify the wound region which allows us extract properties such as wound area, major axis length, and minor axis length with respect to time. We can also automatically identify tissue properties such as tissue width, and tissue edge curvature, determine if the tissue is broken (i.e., detached from posts) or if the wound is closed. |
+| **Paper(s):** in preparation. |
+| **Code:** https://github.com/elejeune11/woundcompute |
 
 <p align = "center">
 <img alt="datasets" src="profile/figs/software_example.gif" width="50%" />
@@ -51,14 +48,12 @@ If you are interested in our work, you may also be interested in these links:
 | **FEniCS ArcLength** <a name="fenics"></a> |
 |---|
 | **Description:** To fill in. |
-| **Link(s):** To fill in. |
 | **Paper(s):** To fill in. |
 | **Code:** To fill in. |
 
 | **Autotwin** <a name="autotwin"></a> |
 |---|
 | **Description:** To fill in. |
-| **Link(s):** To fill in. |
 | **Paper(s):** To fill in. |
 | **Code:** To fill in. |
 
