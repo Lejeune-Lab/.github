@@ -98,7 +98,7 @@ In our group, we have created and disseminated multiple open access mechanics da
 | **Description:** The Mechanical MNIST Cahn-Hilliard dataset contains the results of 104,813 Finite Element simulations of a heterogeneous material domain subject to large equibiaxial extension deformation. The heterogeneous domain patterns are generated from a Finite Element implementation of the Cahn-Hilliard equation. Both stripe and circle patterns are present in the dataset. |
 | **Link(s):** https://open.bu.edu/handle/2144/43971 |
 | **Original paper:** [Journal Link](https://doi.org/10.1115/1.4054898) $\bullet$ [Open Access](https://arxiv.org/abs/2203.04183) |
-| **Code:** https://open.bu.edu/handle/2144/43971 |
+| **Code:** https://github.com/Lejeune-Lab/Mechanical-MNIST-Cahn-Hilliard |
 
 | **Mechanical MNIST - Distribution Shift** |
 |---|
