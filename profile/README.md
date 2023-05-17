@@ -32,8 +32,8 @@ If you are interested in our work, you may also be interested in these links:
 | **MicroBundleCompute** <a name="mbc"></a> |
 |---|
 | **Description:** To fill in. |
-| **Paper(s):** To fill in. |
-| **Code:** To fill in. |
+| **Paper(s):** in preparation |
+| **Code:** https://github.com/HibaKob/MicroBundleCompute |
 
 | **WoundCompute** <a name="wc"></a> |
 |---|
