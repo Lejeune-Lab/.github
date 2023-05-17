@@ -49,7 +49,7 @@ If you are interested in our work, you may also be interested in these links:
 |---|
 | **Description:** To fill in. |
 | **Paper(s):** To fill in. |
-| **Code:** https://github.com/Lejeune-Lab/fenics_arclength |
+| **Code:** https://github.com/pprachas/fenics_arclength |
 
 | **Autotwin** <a name="autotwin"></a> |
 |---|
