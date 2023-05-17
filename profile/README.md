@@ -119,7 +119,7 @@ In our group, we have created and disseminated multiple open access mechanics da
 | **Description:** The Asymmetric Buckling Columns (ABC) dataset contains spatially heterogeneous columns with fixed-fixed boundary conditions that are classified to be buckling left (label of 0) or right (label of 1). The dataset is split into 3 subdatasets: sub-dataset 1, sub-dataset 2, and sub-dataset 3, each with increasing levels of geometric complexity. |
 | **Link(s):** https://open.bu.edu/handle/2144/43730 |
 | **Original paper:** [Journal Link](https://doi.org/10.1016/j.compstruc.2022.106825) $\bullet$ [Open Access](https://arxiv.org/abs/2202.01380) |
-| **Code:** fork repo |
+| **Code:** https://github.com/Lejeune-Lab/ABC_dataset |
 
 ## Publications + relevant GitHub repositories <a name="pubs"></a>
 
