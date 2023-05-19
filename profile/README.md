@@ -109,7 +109,7 @@ In our group, we have created and disseminated multiple open access mechanics da
 | **Description:** The Mechanical MNIST – Distribution Shift dataset is specifically designed to demonstrate three types of data distribution shift: (1) covariate shift, (2) mechanism shift, and (3) sampling bias, for all of which the training and testing environments are drawn from different distributions. For each type of data distribution shift, we have one dataset generated from the Mechanical MNIST bitmaps and one from the Mechanical MNIST – EMNIST Letters bitmaps. |
 | **Link(s):** https://open.bu.edu/handle/2144/44485 |
 | **Original paper:** [Journal Link](https://doi.org/10.1016/j.cma.2022.115569) $\bullet$ [Open Access](https://arxiv.org/abs/2206.14917) |
-| **Code:** fork repo |
+| **Code:** https://github.com/Lejeune-Lab/ood_mechanics |
 
 | **Buckling Instability Classification (BIC)** <a name="bic"></a> |
 |---|
