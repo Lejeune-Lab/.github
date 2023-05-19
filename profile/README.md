@@ -51,8 +51,8 @@ If you are interested in our work, you may also be interested in these links:
 
 | **FEniCS ArcLength** <a name="fenics"></a> |
 |---|
-| **Description:** To fill in. |
-| **Paper(s):** To fill in. |
+| **Description:** fenics-arclength is a Python implementation of the arclength solver built on top of FEniCS. The Arc Length Method, sometimes referred to as the Riks Method, is a method used to solve solid mechanics problems with geometric nonlinearity with complex equilibrium paths. The library aims to keep the usage as similiar to FEniCS (version 2019.1.0) to allow for off-the-shelf implementation and integration with other FEniCS workflows. |
+| **Paper(s):** In progress |
 | **Code:** https://github.com/pprachas/fenics_arclength |
 
 | **Autotwin** <a name="autotwin"></a> |
