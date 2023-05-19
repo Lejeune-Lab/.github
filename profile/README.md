@@ -35,6 +35,10 @@ If you are interested in our work, you may also be interested in these links:
 | **Paper(s):** in preparation |
 | **Code:** https://github.com/HibaKob/MicroBundleCompute |
 
+<p align = "center">
+<img alt="datasets" src="profile/figs/MicroBundleCompute_Example.gif" width="50%" />
+</p>
+
 | **WoundCompute** <a name="wc"></a> |
 |---|
 | **Description:** This software is designed to analyze experimental data from micro-tissue wound experiments. The goal of our software is to extract quantitative information from these images and movies. For example, we can automatically identify the wound region which allows us extract properties such as wound area, major axis length, and minor axis length with respect to time. We can also automatically identify tissue properties such as tissue width, and tissue edge curvature, determine if the tissue is broken (i.e., detached from posts) or if the wound is closed. |
