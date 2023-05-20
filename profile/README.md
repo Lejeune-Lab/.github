@@ -29,6 +29,10 @@ If you are interested in our work, you may also be interested in these links:
 | **Paper(s):** [In Progress!]() $\bullet$ [Paper-Original](https://doi.org/10.1371/journal.pcbi.1009443) |
 | **Code:** [GitHub-Latest](https://github.com/Lejeune-Lab/sarcgraph) $\bullet$ [GitHub-Legacy](https://github.com/Lejeune-Lab/Sarc-Graph) |
 
+<p align = "center">
+<img alt="datasets" src="profile/figs/SarcGraph_Example.gif" width="50%" />
+</p>
+
 | **MicroBundleCompute** <a name="mbc"></a> |
 |---|
 | **Description:** This software is developed as a multi-purpose tool for analyzing heterogeneous cardiac microbundle deformation and strain from brightfield movies of beating microbundles. Specifically, the software is able to automatically generate a mask of the microbundle component of the movie frames, identify tracking points as Shi-Tomasi corner points in this region of interest, and track the fiducial points across all frames. From the tracked positions of the fiducial points, we are able to compute full-field displacements, subdomain-averaged strains, and strain-derived results. We also include post-processing functionalities to rotate the images and tracking results as well as interpolate the output at query points. To visualize the output, the software generates timeseries plots per beat and movies of full-field and subdomain-averaged results.|
@@ -133,7 +137,7 @@ TODO: figure out what to link to here -- e.g., link to manuscript, link to repo 
 * Das, S. L., Sutherland, B. P., Lejeune, E., Eyckmans, J., & Chen, C. S. (2022). Mechanical response of cardiac microtissues to acute localized injury. American Journal of Physiology-Heart and Circulatory Physiology.
 * Prachaseree, P., & Lejeune, E. (2022). Learning Mechanically Driven Emergent Behavior with Message Passing Neural Networks. Computers & Structures, 270, 106825. 
 * Kobeissi, H., Mohammadzadeh, S., & Lejeune, E. (2022). Enhancing Mechanical Metamodels with a Generative Model-Based Augmented Training Dataset. Journal of Biomechanical Engineering.
-* Mohammadzadeh, S., & Lejeune, E. (2021). Predicting mechanically driven full-field Quantities of Interest with deep learning-based metamodels. Extreme Mechanics Letters, 101566.
+* Mohammadzadeh, S., & Lejeune, E. (2021). Predicting mechanically driven full-field Quantities of Interest with deep learning-based metamodels. Extreme Mechanics Letters, 101566. [[paper](https://www.sciencedirect.com/science/article/pii/S2352431621002303) $\bullet$ [Data-Light](https://open.bu.edu/handle/2144/42757) $\bullet$ [Data-Extended](https://datadryad.org/stash/dataset/doi:10.5061/dryad.rv15dv486)]
 * Zhao B., Zhang K., Chen C.S., & Lejeune E. (2021) Sarc-Graph: Automated segmentation, tracking, and analysis of sarcomeres in hiPSC-derived cardiomyocytes. PLoS Comput Biol 17(10): e1009443. 
 * Lejeune, E., & Zhao, B. (2021). Exploring the potential of transfer learning for metamodels of heterogeneous material deformation. Journal of the Mechanical Behavior of Biomedical Materials, 104276.
 * Lejeune, E. (2021). Geometric stability classification: datasets, metamodels, and adversarial attacks. Computer-Aided Design, 131, 102948.
