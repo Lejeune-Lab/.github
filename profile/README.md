@@ -25,9 +25,9 @@ If you are interested in our work, you may also be interested in these links:
 
 | **SarcGraph** <a name="sg"></a> |
 |---|
-| **Description:** To fill in. |
-| **Paper(s):** [Legacy SarcGraph](https://doi.org/10.1371/journal.pcbi.1009443) |
-| **Code:** [Legacy SarcGraph](https://github.com/Lejeune-Lab/Sarc-Graph) |
+| **Description:** SarcGraph is a specialized software tool designed to streamline the detection, tracking, and analysis of z-discs and sarcomeres in movies of beating human induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs). The main objective is to offer researchers a user-friendly, adaptable, and efficient solution for studying sarcomere dynamics in hiPSC-CMs. |
+| **Paper(s):** [In Progress!]() $\bullet$ [Paper-Original](https://doi.org/10.1371/journal.pcbi.1009443) |
+| **Code:** [GitHub-Latest](https://github.com/Lejeune-Lab/sarcgraph) $\bullet$ [GitHub-Legacy](https://github.com/Lejeune-Lab/Sarc-Graph) |
 
 | **MicroBundleCompute** <a name="mbc"></a> |
 |---|
@@ -95,7 +95,7 @@ In our group, we have created and disseminated multiple open access mechanics da
 | **Description:** The Mechanical MNIST Crack Path dataset contains Finite Element simulation results from phase-field models of quasi-static brittle fracture in heterogeneous material domains subjected to prescribed loading and boundary conditions. |
 | **Link(s):** https://open.bu.edu/handle/2144/42757 |
 | **Original paper:** [Journal Link](https://doi.org/10.1016/j.eml.2021.101566) $\bullet$ [Open Access](https://arxiv.org/abs/2108.03995) |
-| **Code:** [GitHub - Dataset](https://github.com/Lejeune-Lab/Mechanical-MNIST-Crack-Path) $\bullet$ [GitHub - Metamodel]([https://github.com/Lejeune-Lab/Mechanical-MNIST-Crack-Path](https://github.com/Lejeune-Lab/MultiRes-WNet)|
+| **Code:** [GitHub-Dataset](https://github.com/Lejeune-Lab/Mechanical-MNIST-Crack-Path) $\bullet$ [GitHub-Metamodel](https://github.com/Lejeune-Lab/MultiRes-WNet) |
 
 | **Mechanical MNIST - Cahn-Hilliard** |
 |---|
