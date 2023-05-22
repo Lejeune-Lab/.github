@@ -134,7 +134,7 @@ In our group, we have created and disseminated multiple open access mechanics da
 | **Original paper:** [Journal Link](https://doi.org/10.1016/j.compstruc.2022.106825) $\bullet$ [Open Access](https://arxiv.org/abs/2202.01380) |
 | **Code:** https://github.com/Lejeune-Lab/ABC_dataset |
 
-## Publications + relevant GitHub repositories <a name="pubs"></a>
+## Connecting publications to relevant GitHub repositories <a name="pubs"></a>
 
 TODO: figure out what to link to here -- e.g., link to manuscript, link to repo for ML models in paper -- forked? -- link to datasets/software? or do we just reference above? 
 
