@@ -59,6 +59,10 @@ If you are interested in our work, you may also be interested in these links:
 | **Paper(s):** In progress |
 | **Code:** https://github.com/pprachas/fenics_arclength |
 
+<p align = "center">
+<img alt="datasets" src="profile/figs/lees_frame.gif" width="50%" />
+</p>
+
 | **Autotwin** <a name="autotwin"></a> |
 |---|
 | **Description:** The goal of this project is to create a fully automated workflow from head MRI $\mapsto$ segmented isosurfaces $\mapsto$ FEA mesh $\mapsto$ FEA simulation for the purpose of understanding subject specific traumatic brain injury risk. |
