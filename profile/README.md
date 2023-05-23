@@ -136,8 +136,6 @@ In our group, we have created and disseminated multiple open access mechanics da
 
 ## Connecting publications to relevant GitHub repositories <a name="pubs"></a>
 
-TODO: figure out what to link to here -- e.g., link to manuscript, link to repo for ML models in paper -- forked? -- link to datasets/software? or do we just reference above? 
-
 * Yuan, L., Park, H. S., & Lejeune, E. (2022). Towards out of distribution generalization for problems in mechanics. Computer Methods in Applied Mechanics and Engineering, 400, 115569.\[[paper](https://doi.org/10.1016/j.cma.2022.115569) | [code](https://github.com/Lejeune-Lab/ood_mechanics) | [data](https://open.bu.edu/handle/2144/44485)\]
 * Das, S. L., Sutherland, B. P., Lejeune, E., Eyckmans, J., & Chen, C. S. (2022). Mechanical response of cardiac microtissues to acute localized injury. American Journal of Physiology-Heart and Circulatory Physiology.
 * Prachaseree, P., & Lejeune, E. (2022). Learning Mechanically Driven Emergent Behavior with Message Passing Neural Networks. Computers & Structures, 270, 106825. 
