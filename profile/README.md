@@ -27,7 +27,7 @@ If you are interested in our work, you may also be interested in these links:
 | **SarcGraph** <a name="sg"></a> |
 |---|
 | **Description:** SarcGraph is a specialized software tool designed to streamline the detection, tracking, and analysis of z-discs and sarcomeres in movies of beating human induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs). The main objective is to offer researchers a user-friendly, adaptable, and efficient solution for studying sarcomere dynamics in hiPSC-CMs. |
-| **Paper(s):** [In Progress!]() $\bullet$ [Paper-Original](https://doi.org/10.1371/journal.pcbi.1009443) |
+| **Paper(s):** [Paper-Software](https://joss.theoj.org/papers/10.21105/joss.05322) $\bullet$ [Paper-Original](https://doi.org/10.1371/journal.pcbi.1009443) |
 | **Code:** [GitHub-Latest](https://github.com/Lejeune-Lab/sarcgraph) $\bullet$ [GitHub-Legacy](https://github.com/Lejeune-Lab/Sarc-Graph) |
 
 <p align = "center">
