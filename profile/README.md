@@ -136,7 +136,7 @@ In our group, we have created and disseminated multiple open access mechanics da
 | **Code:** https://github.com/Lejeune-Lab/ABC_dataset |
 
 ## Connecting publications to relevant GitHub repositories <a name="pubs"></a>
-
+* Lejeune, E., & Prachaseree, P. (2023). Locality sensitive hashing via mechanical behavior. Extreme Mechanics Letters, 102042.\[ [paper](https://doi.org/10.1016/j.eml.2023.102042) | [code](https://github.com/Lejeune-Lab/mechHS) \]
 * Mohammadzadeh, S., & Lejeune, E. (2023). SarcGraph: A Python package for analyzing the contractile behavior of pluripotent stem cell-derived cardiomyocytes. Journal of Open Source Software. \[ [paper](https://doi.org/10.21105/joss.05322) | [code](https://github.com/Sarc-Graph/sarcgraph) \]
 * Yuan, L., Park, H. S., & Lejeune, E. (2022). Towards out of distribution generalization for problems in mechanics. Computer Methods in Applied Mechanics and Engineering, 400, 115569.\[ [paper](https://doi.org/10.1016/j.cma.2022.115569) | [code](https://github.com/Lejeune-Lab/ood_mechanics) | [data](https://open.bu.edu/handle/2144/44485) \]
 * Das, S. L., Sutherland, B. P., Lejeune, E., Eyckmans, J., & Chen, C. S. (2022). Mechanical response of cardiac microtissues to acute localized injury. American Journal of Physiology-Heart and Circulatory Physiology. \[ [paper](https://sites.bu.edu/lejeunelab/files/2022/09/Cardiac_microtissue_injury.pdf) | [code](https://github.com/Lejeune-Lab/Das-manuscript-2022) \]
