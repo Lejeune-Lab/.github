@@ -32,7 +32,7 @@ If you are interested in our work, you may also be interested in these links:
 | **Code:** [GitHub-Latest](https://github.com/Lejeune-Lab/sarcgraph) $\bullet$ [GitHub-Legacy](https://github.com/Lejeune-Lab/Sarc-Graph) |
 
 <p align = "center">
-<img alt="datasets" src="profile/figs/SarcGraph_Example.gif" width="50%" />
+<img alt="datasets" src="figs/SarcGraph_Example.gif" width="50%" />
 </p>
 
 | **MicroBundleCompute** <a name="mbc"></a> |
@@ -42,7 +42,7 @@ If you are interested in our work, you may also be interested in these links:
 | **Code:** https://github.com/HibaKob/MicroBundleCompute |
 
 <p align = "center">
-<img alt="datasets" src="profile/figs/MicroBundleCompute_Example.gif" width="50%" />
+<img alt="datasets" src="figs/MicroBundleCompute_Example.gif" width="50%" />
 </p>
 
 | **WoundCompute** <a name="wc"></a> |
@@ -52,7 +52,7 @@ If you are interested in our work, you may also be interested in these links:
 | **Code:** https://github.com/elejeune11/woundcompute |
 
 <p align = "center">
-<img alt="datasets" src="profile/figs/software_example.gif" width="50%" />
+<img alt="datasets" src="figs/software_example.gif" width="50%" />
 </p>
 
 | **FEniCS ArcLength** <a name="fenics"></a> |
@@ -62,7 +62,7 @@ If you are interested in our work, you may also be interested in these links:
 | **Code:** https://github.com/pprachas/fenics_arclength |
 
 <p align = "center">
-<img alt="datasets" src="profile/figs/lees_frame.gif" width="50%" />
+<img alt="datasets" src="figs/lees_frame.gif" width="50%" />
 </p>
 
 | **Autotwin** <a name="autotwin"></a> |
@@ -76,7 +76,7 @@ If you are interested in our work, you may also be interested in these links:
 In our group, we have created and disseminated multiple open access mechanics datasets for assessing the performance of machine learning models. All datasets are created with open source finite element software [FEniCS](https://fenicsproject.org/), and all are shared under [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licenses. Please feel free to download and use them for any research or educational purposes!
 
 <p align = "center">
-<img alt="datasets" src="profile/figs/datasets.png" width="75%" />
+<img alt="datasets" src="figs/datasets.png" width="75%" />
 </p>
 
 | **Mechanical MNIST - Uniaxial Extension, Shear, Confined Compression, Equibiaxial Extension** <a name="m-mnist"></a>|
