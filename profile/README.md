@@ -136,6 +136,7 @@ In our group, we have created and disseminated multiple open access mechanics da
 | **Code:** https://github.com/Lejeune-Lab/ABC_dataset |
 
 ## Connecting publications to relevant GitHub repositories <a name="pubs"></a>
+* Hamdi, E., & Lejeune, E. (2026). Towards robust surrogate models: Benchmarking machine learning approaches to expediting phase field simulations of brittle fracture. Computer Methods in Applied Mechanics and Engineering, 449, 118526. \[ [paper](https://www.sciencedirect.com/science/article/pii/S0045782525007984) | [code](https://github.com/erfanhamdi/pfm_bench) | [data](https://dataverse.harvard.edu/dataverse/PFM-Fracture) \]
 * Mohammadzadeh, S., Prachaseree, P., & Lejeune, E. (2023). Investigating deep learning model calibration for classification problems in mechanics. Mechanics of Materials, 104749.\[ [paper](https://doi.org/10.1016/j.mechmat.2023.104749) | [code](https://github.com/Lejeune-Lab/model-calibration) \]
 * Lejeune, E., & Prachaseree, P. (2023). Locality sensitive hashing via mechanical behavior. Extreme Mechanics Letters, 102042.\[ [paper](https://doi.org/10.1016/j.eml.2023.102042) | [code](https://github.com/Lejeune-Lab/mechHS) \]
 * Mohammadzadeh, S., & Lejeune, E. (2023). SarcGraph: A Python package for analyzing the contractile behavior of pluripotent stem cell-derived cardiomyocytes. Journal of Open Source Software. \[ [paper](https://doi.org/10.21105/joss.05322) | [code](https://github.com/Lejeune-Lab/sarcgraph) \]
