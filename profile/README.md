@@ -135,6 +135,13 @@ In our group, we have created and disseminated multiple open access mechanics da
 | **Original paper:** [Journal Link](https://doi.org/10.1016/j.compstruc.2022.106825) $\bullet$ [Open Access](https://arxiv.org/abs/2202.01380) |
 | **Code:** https://github.com/Lejeune-Lab/ABC_dataset |
 
+| **Nonlinear Mechanics Benchmark - PFM-Fracture** <a name="pfm-fracture"></a>|
+|---|
+| **Description:** PFM-Fracture dataset contains Finite Element simulations of phase-field modeling of fracture of a square domain under multiple boundary conditions, energy decompositions, and initial crack configurations. |
+| **Link(s):** https://dataverse.harvard.edu/dataverse/PFM-Fracture |
+| **Original paper:** [Journal Link](https://doi.org/10.1016/j.cma.2025.118526) $\bullet$ [Open Access](https://arxiv.org/abs/2507.07237) |
+| **Code:** [pfm_dataset](https://github.com/erfanhamdi/pfm_dataset) $\bullet$ [pfm_bench](https://github.com/erfanhamdi/pfm_bench)
+
 ## Connecting publications to relevant GitHub repositories <a name="pubs"></a>
 * Mohammadzadeh, S., Prachaseree, P., & Lejeune, E. (2023). Investigating deep learning model calibration for classification problems in mechanics. Mechanics of Materials, 104749.\[ [paper](https://doi.org/10.1016/j.mechmat.2023.104749) | [code](https://github.com/Lejeune-Lab/model-calibration) \]
 * Lejeune, E., & Prachaseree, P. (2023). Locality sensitive hashing via mechanical behavior. Extreme Mechanics Letters, 102042.\[ [paper](https://doi.org/10.1016/j.eml.2023.102042) | [code](https://github.com/Lejeune-Lab/mechHS) \]
