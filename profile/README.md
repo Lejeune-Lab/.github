@@ -20,6 +20,7 @@ If you are interested in our work, you may also be interested in these links:
     * [Mechanical MNIST Collection](#m-mnist)
     * [Buckling Instability Classification (BIC)](#bic)
     * [Asymmetric Buckling Columns (ABC)](#abc)
+    * [Nonlinear Mechanics Benchmark Collection](#pfm-fracture)
 * [Links to GitHub repositories matched up with publications](#pubs)
 * [Resources for current and future students](#resources)
 
