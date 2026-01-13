@@ -48,12 +48,12 @@ If you are interested in our work, you may also be interested in these links:
 
 | **WoundCompute** <a name="wc"></a> |
 |---|
-| **Description:** This software is designed to analyze experimental data from micro-tissue wound experiments. The goal of our software is to extract quantitative information from these images and movies. For example, we can automatically identify the wound region which allows us extract properties such as wound area, major axis length, and minor axis length with respect to time. We can also automatically identify tissue properties such as tissue width, and tissue edge curvature, determine if the tissue is broken (i.e., detached from posts) or if the wound is closed. |
+| **Description:** The Wound Compute software is a multi-purpose tool, designed to obtain and analyze information from our microtissue wound experiments. The goal of our software is to automatically extract quantitative information from a high volume of these experimental images and movies. For example, given a stack of images for an injured microtissue in the process of healing, we can identify the tissue and wound region, and measure critical properties such as wound area, major axis length, and minor axis length with respect to time. We can also track the motion and obtain the deflections of the microposts. Finally, we have also implemented analysis to determine if the tissue is broken (i.e., detached from posts), or if the wound is closed. |
 | **Paper(s):** in preparation. |
 | **Code:** https://github.com/elejeune11/woundcompute |
 
 <p align = "center">
-<img alt="datasets" src="figs/software_example.gif" width="50%" />
+<img alt="datasets" src="figs/via1_s23.gif" width="50%" />
 </p>
 
 | **FEniCS ArcLength** <a name="fenics"></a> |
@@ -135,6 +135,13 @@ In our group, we have created and disseminated multiple open access mechanics da
 | **Link(s):** https://open.bu.edu/handle/2144/43730 |
 | **Original paper:** [Journal Link](https://doi.org/10.1016/j.compstruc.2022.106825) $\bullet$ [Open Access](https://arxiv.org/abs/2202.01380) |
 | **Code:** https://github.com/Lejeune-Lab/ABC_dataset |
+
+| **Mechanical MNIST – Unsupervised Learning Dataset** <a name="unsupervised_data"></a>|
+|---|
+| **Description:** The Mechanical MNIST dataset collection contains Finite Element simulations of heterogeneous materials undergoing applied displacement. The dataset provides the following combinations of conditions: 6 different heterogeneous material patterns, 2 constitutive models, 4 controlled boundary conditions, and 1 random boundary condition. |
+| **Link(s):** https://hdl.handle.net/2144/46508 |
+| **Original paper:** [Journal Link](https://doi.org/10.1007/s10237-023-01779-2) $\bullet$ [Open Access](https://arxiv.org/abs/2308.15697) |
+| **Code:** https://github.com/quan4444/cluster_project |
 
 | **Nonlinear Mechanics Benchmark - PFM-Fracture** <a name="pfm-fracture"></a>|
 |---|
