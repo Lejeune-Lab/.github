@@ -2,12 +2,12 @@
 This page is always under construction. :)
 
 If you are interested in our work, you may also be interested in these links:
-* [Open Access Mechanics Datasets curated from the broader mechanics community](https://elejeune11.github.io/) - please get in touch if you have datasets that you think we should add!
+* [Open Access Mechanics Datasets curated from the broader mechanics community](https://elejeune11.github.io/) - please contact elejeune@bu.edu if you have datasets that you think we should add!
 * [iMechanica Journal Club for May 2022: Machine Learning in Mechanics: curating datasets and defining challenge problems](https://imechanica.org/node/25935)
-* [Closer Look Journal Club -- 39 speakers to date!](https://closerlookjc.com/past-looks)
+* [Closer Look Journal Club -- 59 speakers to date!](https://www.youtube.com/@closerlookanopenjournalclu8797/videos)
 * [Presentation on Open Science at SB3C 2023](https://docs.google.com/presentation/d/1b_66DyxAr8RpOyXZNmsVInxNaDKuKxzW5TafgdAqp6w/edit?usp=sharing)
 * [BU Mechanical Engineering PhD program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-meche/)
-* [Introduction to Computational Research at BU](https://github.com/Lejeune-Lab/BU_computational_research_intro)
+* [Introduction to Computational Research with the Lejeune Lab at BU](https://github.com/Lejeune-Lab/BU_computational_research_intro)
 
 ## Table of contents
 * [Software projects](#software)
