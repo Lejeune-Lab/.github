@@ -122,6 +122,13 @@ In our group, we have created and disseminated multiple open access mechanics da
 | **Original paper:** [Journal Link](https://doi.org/10.1016/j.cma.2022.115569) $\bullet$ [Open Access](https://arxiv.org/abs/2206.14917) |
 | **Code:** https://github.com/Lejeune-Lab/ood_mechanics |
 
+| **Mechanical MNIST – Unsupervised Learning Dataset** <a name="unsupervised_data"></a>|
+|---|
+| **Description:** The Mechanical MNIST dataset collection contains Finite Element simulations of heterogeneous materials undergoing applied displacement. The dataset provides the following combinations of conditions: 6 different heterogeneous material patterns, 2 constitutive models, 4 controlled boundary conditions, and 1 random boundary condition. |
+| **Link(s):** https://hdl.handle.net/2144/46508 |
+| **Original paper:** [Journal Link](https://doi.org/10.1007/s10237-023-01779-2) $\bullet$ [Open Access](https://arxiv.org/abs/2308.15697) |
+| **Code:** https://github.com/quan4444/cluster_project |
+
 | **Buckling Instability Classification (BIC)** <a name="bic"></a> |
 |---|
 | **Description:** The Buckling Instability Classification (BIC) datasets contain the results of finite element simulations where a heterogeneous column is subject to a fixed level of applied displacement and is classified as either "Stable" or "Unstable." Each model input is a 16x1 vector where the entries of the vector dictate the Young's Modulus (E) of the corresponding portion of the physical column domain. There are three sub-datasets with different input property distributions: BIC-1, BIC-2, and BIC-3. |
@@ -135,13 +142,6 @@ In our group, we have created and disseminated multiple open access mechanics da
 | **Link(s):** https://open.bu.edu/handle/2144/43730 |
 | **Original paper:** [Journal Link](https://doi.org/10.1016/j.compstruc.2022.106825) $\bullet$ [Open Access](https://arxiv.org/abs/2202.01380) |
 | **Code:** https://github.com/Lejeune-Lab/ABC_dataset |
-
-| **Mechanical MNIST – Unsupervised Learning Dataset** <a name="unsupervised_data"></a>|
-|---|
-| **Description:** The Mechanical MNIST dataset collection contains Finite Element simulations of heterogeneous materials undergoing applied displacement. The dataset provides the following combinations of conditions: 6 different heterogeneous material patterns, 2 constitutive models, 4 controlled boundary conditions, and 1 random boundary condition. |
-| **Link(s):** https://hdl.handle.net/2144/46508 |
-| **Original paper:** [Journal Link](https://doi.org/10.1007/s10237-023-01779-2) $\bullet$ [Open Access](https://arxiv.org/abs/2308.15697) |
-| **Code:** https://github.com/quan4444/cluster_project |
 
 | **Nonlinear Mechanics Benchmark - PFM-Fracture** <a name="pfm-fracture"></a>|
 |---|
